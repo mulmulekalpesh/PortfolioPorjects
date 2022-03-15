@@ -1,2 +1,2 @@
-# Portfolio Projects
-## This repository contains all of my code and queries from portfolio projects that I worked on..
+# SQL Projects
+## This repository contains all of my SQLprojects that I worked on..
